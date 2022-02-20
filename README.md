@@ -1,6 +1,9 @@
 # inversematrix
+
 import numpy as np
+
 import random
+
 count = 0
 div = 0
 for i in range(100000):
